@@ -335,6 +335,13 @@
     "x": 42,
     "y": 60
   },
+  "danger_red_hatch": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 241,
+    "y": 170
+  },
   "dentist-11": {
     "height": 17,
     "pixelRatio": 1,
