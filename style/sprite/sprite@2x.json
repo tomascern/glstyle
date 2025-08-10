@@ -308,32 +308,32 @@
     "y": 120
   },
   "citydot": {
-    "height": 24,
+    "height": 12,
     "pixelRatio": 2,
-    "width": 24,
-    "x": 314,
-    "y": 486
+    "width": 12,
+    "x": 302,
+    "y": 36
   },
   "citydot-open": {
-    "height": 24,
+    "height": 12,
     "pixelRatio": 2,
-    "width": 24,
-    "x": 338,
-    "y": 486
+    "width": 12,
+    "x": 314,
+    "y": 36
   },
   "citydot-open_lowrank": {
-    "height": 24,
+    "height": 12,
     "pixelRatio": 2,
-    "width": 24,
-    "x": 42,
-    "y": 482
+    "width": 12,
+    "x": 388,
+    "y": 398
   },
   "citydot_lowrank": {
-    "height": 24,
+    "height": 12,
     "pixelRatio": 2,
-    "width": 24,
-    "x": 66,
-    "y": 482
+    "width": 12,
+    "x": 400,
+    "y": 398
   },
   "clothing-store-11": {
     "height": 34,

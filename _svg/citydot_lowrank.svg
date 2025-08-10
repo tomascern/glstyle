@@ -2,11 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="3.175mm"
-   height="3.1750002mm"
-   viewBox="0 0 3.175 3.1750002"
+   width="1.5875mm"
+   height="1.5875mm"
+   viewBox="0 0 1.5875 1.5875"
    version="1.1"
    id="svg1"
+   sodipodi:docname="citydot_lowrank.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +25,9 @@
     <inkscape:page
        x="0"
        y="0"
-       width="3.175"
-       height="3.1750002"
-       id="page2"
+       width="1.5875"
+       height="1.5875"
+       id="page1"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
@@ -36,12 +37,12 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-89.870873,-67.091287)">
+     transform="translate(-89.870877,-67.09129)">
     <circle
        style="fill:#3f4650;fill-opacity:1;stroke:none;stroke-width:0"
        id="path1"
-       cx="91.458374"
-       cy="68.678787"
-       r="1.5875" />
+       cx="90.664627"
+       cy="67.88504"
+       r="0.79374999" />
   </g>
 </svg>

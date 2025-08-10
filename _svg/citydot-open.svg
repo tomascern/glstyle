@@ -2,11 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="3.1750081mm"
-   height="3.1750002mm"
-   viewBox="0 0 3.1750081 3.1750002"
+   width="1.5875001mm"
+   height="1.5875005mm"
+   viewBox="0 0 1.5875001 1.5875005"
    version="1.1"
    id="svg1"
+   sodipodi:docname="citydot-open.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +25,9 @@
     <inkscape:page
        x="0"
        y="0"
-       width="3.1750081"
-       height="3.1750002"
-       id="page2"
+       width="1.5875001"
+       height="1.5875005"
+       id="page1"
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
@@ -36,13 +37,13 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-69.489196,-62.411847)">
+     transform="translate(-69.489201,-62.411843)">
     <ellipse
-       style="fill:none;stroke:#000000;stroke-width:0.793752;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.396876;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
-       cx="71.076706"
-       cy="63.999344"
-       rx="1.1906257"
-       ry="1.190624" />
+       cx="70.282951"
+       cy="63.205593"
+       rx="0.59531206"
+       ry="0.59531218" />
   </g>
 </svg>
